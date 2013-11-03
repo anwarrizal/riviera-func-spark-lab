@@ -19,7 +19,17 @@ Step 0 - Setup
   * Run ```sbt```
   * Then ```test```. All the tests must pass.
 
-  
+Exercises
+----------
+The exercises we will do during the lab are the following:
+* Optional: Quick refresher of Scala
+* Exercise 1: Working with spark shell.
+* Exercise 2: Word count exercises in shell.
+* Exercise 3: Building a stand alone word count application.
+* Exercise 4: Implement a simple collaborative filtering application.
+* Exercise 5: Implement K means clustering.
+
+
 
 
 
