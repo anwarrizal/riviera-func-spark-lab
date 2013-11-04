@@ -9,7 +9,7 @@ Step 0 - Setup
 * Make sure that you have spark installed locally:
   * Type ```~/spark-0.8.0/spark-shell``` . Make sure that you have spark shell launched.
   * Type ```val xs = sc.parallelize(List(1,3,5))```
-  * And then ```ys = xs.map(x => x + 1)``` 
+  * And then ```val ys = xs.map(x => x + 1)``` 
   * Quit the shell by typing ```:q``` 
 * Make sure you have sbt installed correctly:
   * Type ```sbt```

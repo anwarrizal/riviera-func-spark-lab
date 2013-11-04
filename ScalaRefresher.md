@@ -1,5 +1,5 @@
-riviera-func-spark-lab
-======================
+riviera-func-spark-lab - Scala Refresher 
+=========================================
 
 Spark hands on lab by Riviera Scala Clojure Meetup (http://www.meetup.com/riviera-scala-clojure).
 
