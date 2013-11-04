@@ -22,7 +22,7 @@ Step 0 - Setup
 Exercises
 ----------
 The exercises we will do during the lab are the following:
-* Optional: Quick refresher of Scala
+* Optional: Quick refresher of Scala (https://github.com/anwarrizal/riviera-func-spark-lab/blob/master/ScalaRefresher.md)
 * Exercise 1: Working with spark shell.
 * Exercise 2: Word count exercises in shell.
 * Exercise 3: Building a stand alone word count application.
