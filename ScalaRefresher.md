@@ -27,7 +27,8 @@ Exercise Set 2
 * Create a list ```ys``` of integer as follow: ```(4, 5, 1, 2, 1, 5, 10, 1, 3, 10, 1, 1, 2)```.
 * Create a list ```ts``` of tuples of two elements from ```xs``` and ```ys``` using zip.
  ```( (1, 4), (1, 5), (4, 1), (3, 2), (5, 1), (2, 5), (5, 10), (6,1), (1, 3), (7, 10), (8, 1), (9,1), (2,2))```.
-* Create a list ```firsts``` containing only the first element of tuples in the ```ts```, that is, ```(1, 1, 4, 3, 5, 2, 5, 6, 1, 7, 8, 9, 8)```.
+* Create a list ```firsts``` containing only the first element of tuples in the ```ts```, that is, ```(1, 1, 4, 3, 5, 2, 5, 6, 1, 7, 8, 9, 8)```
 * Similarly, create ```seconds``` containing only the second element of tuples in the ```ts```.
 * Implement a function that receives a list of ```(Int,Int)```, and return another list containing the sum of second elements for each number in 
   the first element. That is: ```( (1, 12), (2, 7), (3, 2), ...)```. Hint: You can use  ```mapValues```
+* Create a function mappend(m1:Map[Int,Int], m2:Map[Int,Int]) = Map[Int,Int] that sums the value for the same key and just appends for the key that is not the same. 
